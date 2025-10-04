@@ -145,7 +145,7 @@ This reduces barriers to accessing specialized data, accelerates discovery, and 
 | GitHub Repository | [https://github.com/Rawangamal33/nasaProjectPAB](https://github.com/Rawangamal33/nasaProjectPAB) |
 | Dataset Source | NASA SB_publications (608 papers) |
 | Dataset Link | [https://github.com/jgalazka/SB_publications/tree/main](https://github.com/jgalazka/SB_publications/tree/main) |
-| Backend Repo Link | [Backend](https://github.com/Sarah627/Nasa_Space_Apps_Challenge_2025_backend) |
+| Backend Repo Link | [Sarah627/Nasa_Space_Apps_Challenge_2025_backend](https://github.com/Sarah627/Nasa_Space_Apps_Challenge_2025_backend) |
 
 ---
 
@@ -161,3 +161,4 @@ This reduces barriers to accessing specialized data, accelerates discovery, and 
 
 
 **Disclaimer**: This tool is for research and educational purposes. All data sourced from NASA's open access repositories.
+
